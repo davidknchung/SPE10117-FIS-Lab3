@@ -1,10 +1,11 @@
 Question 1
 1. Trust free ecommerce
-2. +Blockchain
-+Literature review
-+Sharing economy
-+Trust
-+Trust-free system
+2. 
+  +Blockchain
+  +Literature review
+  +Sharing economy
+  +Trust
+  +Trust-free system
 
 | Software name | Sofeware manufacturer | Software version | Software type |
 | ------------- | --------------------- | ---------------- | ------------- |
